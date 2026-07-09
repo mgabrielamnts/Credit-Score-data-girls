@@ -141,6 +141,16 @@ A análise simula o trabalho de uma equipe de dados da **Data Girls Finance**, u
 1. Abra o arquivo `dash_data_girls.pbix` no Power BI Desktop
 2. Atualize a fonte de dados apontando para o `train_dashboard.csv` gerado
 
+## 📸 Prévia do Dashboard
+
+**Tela 1 — Visão Geral da Carteira**
+![Tela 1](dashboard/tela1_visao_geral.jpeg)
+
+**Tela 2 — Indicadores de Risco**
+![Tela 2](dashboard/tela2_indicadores_risco.jpeg)
+
+**Tela 3 — Insights e Recomendações**
+![Tela 3](dashboard/tela3_insights_recomendacoes.jpeg)
 ---
 
 ## ⚡ Power Automate — Alerta de Risco
