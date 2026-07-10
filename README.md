@@ -13,8 +13,6 @@ Este projeto foi desenvolvido como trabalho final do **Bootcamp [RE]Start - Data
 
 A análise simula o trabalho de uma equipe de dados da **Data Girls Finance**, uma fintech fictícia que busca compreender melhor o perfil financeiro de seus clientes para apoiar decisões de concessão de crédito e gestão de risco de inadimplência.
 
-> ⚠️ *Dataset sintético disponível no Kaggle*
-
 ---
 
 ## 🎯 Perguntas Norteadoras
