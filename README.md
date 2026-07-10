@@ -74,7 +74,7 @@ A análise simula o trabalho de uma equipe de dados da **Data Girls Finance**, u
 |---|---|
 | Clientes com Credit Mix Inadequado | 60,1% classificados como score Ruim |
 | Mediana de atraso — grupo Ruim | 27 dias (vs. 10 dias no grupo Bom) |
-| Debt-to-Income Ratio — grupo Ruim | 0,062 (5x maior que o grupo Bom) |
+| Comprometimento de Renda — grupo Ruim | 6,2% (5x maior que o grupo Bom) |
 | Histórico de crédito — grupo Bom | 288 meses (vs. 161 meses no grupo Ruim) |
 | Clientes em zona de risco | 29% da carteira (acima da meta de 25%) |
 
@@ -85,7 +85,7 @@ A análise simula o trabalho de uma equipe de dados da **Data Girls Finance**, u
 | Ação | Justificativa | Indicador |
 |---|---|---|
 | Triagem automática para Credit Mix Inadequado | 60,1% de probabilidade de score Ruim | Credit Mix |
-| Alerta para Debt-to-Income > 6,2% | Mediana do grupo Ruim | DTI |
+| Alerta para Comprometimento de Renda> 6,2% | Mediana do grupo Ruim | DTI |
 | Alerta operacional para atraso > 20 dias | Ponto entre medianas Regular (18d) e Ruim (27d) | Dias de Atraso |
 | Ofertas diferenciadas para Regular com bom perfil | 53,2% da carteira com potencial de migração | Score + Histórico |
 
