@@ -65,7 +65,6 @@ A análise simula o trabalho de uma equipe de dados da **Data Girls Finance**, u
 
 ### 6️⃣ Dashboard Power BI
 - 3 telas interativas com filtros globais
-- Identidade visual alinhada ao Data Girls Bootcamp
 
 ---
 
